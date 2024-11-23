@@ -1,5 +1,6 @@
 import "./App.css";
 import CardConatiner from "./component/CardConatiner";
+import HalfVisibleSpot from "./component/HalfVisibleSpot";
 import Header from "./component/Header";
 
 function App() {
