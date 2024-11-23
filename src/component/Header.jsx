@@ -13,7 +13,7 @@ const Header = () => {
         <div className="w-9 h-9 rounded-full  border-transparent bg-gradient-to-b from-blue-500 to-blue-900 flex items-center justify-center">
           <div className="w-6 h-6 rounded-full bg-black"></div>
         </div>
-        <h1 className="text-2xl font-bold">metafied</h1>
+        <h1 className="text-2xl z-10 font-bold">metafied</h1>
       </div>
       <div className="right flex items-center pr-6 gap-3  w-full h-full">
         <div className="icons flex items-center justify-end gap-2 w-full h-full">
